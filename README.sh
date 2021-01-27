@@ -1,2 +1,2 @@
 /bin/sh
-printf "Hello World";
+echo "Hello World";
